@@ -2,7 +2,7 @@
 
 This is a small personal voice assistant I’m building in Python while learning how voice recognition, text-to-speech, and basic system automation work together.
 
-It’s inspired by the idea of JARVIS, but this project is not meant to be a full assistant — it’s mainly a learning and experimentation project and is still in progress.
+It’s inspired by the idea of JARVIS, but this project is not meant to be a full assistant. It’s mainly a learning and experimentation project and is still in progress.
 
 
 ### Project Status
@@ -57,4 +57,5 @@ This project is not production-ready and not meant for serious use.
 It’s a personal learning project, and things may break as I experiment.
 
 
-Let's hope for the best!
+
+_Let's hope for the best!_
