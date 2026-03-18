@@ -61,3 +61,6 @@ It’s a personal learning project, and things may break as I experiment
 _Let's hope for the best!_
 
 ##### 🚧 This project is still in progress
+
+#### dev logs
+https://drive.google.com/drive/folders/1FRyUcm5yrANM9YdhRXKrYau9alnlk5F7
